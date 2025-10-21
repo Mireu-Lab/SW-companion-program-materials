@@ -4,8 +4,12 @@
 
 ## 개발 환경
 
+Github CodeSpace CPU 4C, RAM 16GB, ROM 32GB
+
 ```
 > neofetch
+
+
             .-/+oossssoo+/-.               codespace@codespaces-82c55d 
         `:+ssssssssssssssssss+:`           --------------------------- 
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04.2 LTS x86_64 
